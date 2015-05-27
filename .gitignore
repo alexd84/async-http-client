@@ -1,0 +1,12 @@
+/.nb-gradle/private/
+/build/
+.gradle
+*.iml
+*.ipr
+*.iws
+/.classpath
+/.project
+/dump/
+/bin/
+/.settings/
+out
